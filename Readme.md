@@ -80,3 +80,16 @@ Interpretação Geral com LLM
 5. Inicie o servidor do Ollama - ``ollama serve``
 
 6. Execute o app - ``streamlit run app.py``
+
+
+# Interface
+
+![Interface](prints/printodin5.png)
+
+![Interface](prints/printodin4.png)
+
+![Interface](prints/printodin3.png)
+
+![Interface](prints/printodin2.png)
+
+![Interface](prints/printodin1.png)

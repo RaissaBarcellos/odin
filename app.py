@@ -98,7 +98,7 @@ RESPOSTA
                 "prompt": prompt,
                 "stream": False
             },
-            timeout=300
+            timeout=500
         )
 
         text = response.json()["response"]
