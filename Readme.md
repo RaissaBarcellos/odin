@@ -1,8 +1,7 @@
 # ODIN — OpenData Interpreter
 
-## Visão Geral
-
-O **ODIN (OpenData Interpreter)** é uma ferramenta computacional desenvolvida para **interpretar automaticamente conjuntos de dados estruturados**, com foco especial em **dados abertos**. A ferramenta reduz barreiras técnicas associadas à análise de dados ao automatizar tarefas típicas da análise exploratória, como:
+ <img src="./odin.png" width="80" height="80">
+ O **ODIN (OpenData Interpreter)** é uma ferramenta computacional desenvolvida para **interpretar automaticamente conjuntos de dados estruturados**, com foco especial em **dados abertos**. A ferramenta reduz barreiras técnicas associadas à análise de dados ao automatizar tarefas típicas da análise exploratória, como:
 
 - identificação de padrões estatísticos
 - geração automática de visualizações
@@ -92,4 +91,4 @@ Interpretação Geral com LLM
 
 ![Interface](prints/printodin2.png)
 
-![Interface](prints/printodin1.png)
+![Interface](prints/printodin.png)
